@@ -1,10 +1,20 @@
 #Import
-```import lettercode```
+```
+import lettercode
+```
 #Objekt erstellen
-```lc = lettercode.Lettercode()```
+```
+lc = lettercode.Lettercode()
+```
 #Objekt mit eigener Liste erstellen:
-```lc = lettercode.Lettercode(liste)```
+```
+lc = lettercode.Lettercode(liste)
+```
 #Buchstabe->Zahl
-```lc.code(buchstabe)```
+```
+lc.code(buchstabe)
+```
 #Zahl->Buchstabe
-```lc.decode(zahl)```
+```
+lc.decode(zahl)
+```
